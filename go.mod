@@ -8,4 +8,4 @@ require (
 	github.com/schollz/logger v1.2.0
 )
 
-require golang.org/x/net v0.0.0-20210505024714-0287a6fb4125 // indirect
+require golang.org/x/net v0.7.0 // indirect
